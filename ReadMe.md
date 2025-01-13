@@ -33,3 +33,9 @@ Build `xyz` among the following . . .
 ```console
 $ nix build .#xyz
 ```
+
+## Running Leios
+
+```console
+$ nix run .#ols -- --help
+```
