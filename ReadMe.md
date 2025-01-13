@@ -6,6 +6,9 @@
 ```console
 $ nix develop
 
+# Navigate to the top-level Leios folder.
+$ cd .../ouroboros-leios
+
 $ cabal update
 
 $ cabal build all
